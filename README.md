@@ -1,12 +1,12 @@
 # Auto-Complete-Searchbar
 The autocomplete search bar project involves building a search input field that suggests relevant search terms or results to the user as they type. This enhances user experience by providing suggestions and speeding up the search process.
 
-Technologies Used:
+#Technologies Used:
 HTML: To structure the search bar interface.
 CSS: To style the search bar and its suggestions.
 JavaScript: To handle user input, fetch data, and display autocomplete suggestions dynamically.
 
-Key Features:
+#Key Features:
 Search Input Field: Create an input field where users can type their search queries.
 Autocomplete Suggestions: As the user types, dynamically fetch and display relevant suggestions based on the input.
 Fetching Data: Implement a mechanism to fetch search suggestions from a data source (e.g., a local array, JSON file, or API).
